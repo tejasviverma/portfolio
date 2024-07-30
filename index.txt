@@ -1,0 +1,130 @@
+# sidebar
+
+alt = Tejasvi Verma
+Web developer || CP
+
+Show Contacts
+
+Email
+tejasvi.verma4@gmailcom
+
+
+Birthday
+August 1, 2004
+
+Location
+New Delhi, India
+
+# navbar
+
+About
+Resume
+Portfolio
+Contact
+
+# about
+
+About me
+
+Hello! I'm Tejasvi Verma, a sophomore pursuing Computer Science Engineering with a passion for web development and competitive programming. I thrive on creating sleek, user-friendly web applications using modern technologies like HTML, CSS, JavaScript, and frameworks such as React and Node.js.
+
+Beyond web development, I'm deeply fascinated by Data Structures and Algorithms. I enjoy tackling complex problem-solving challenges and honing my skills through competitive programming platforms. My goal is to leverage these skills to build efficient and scalable software solutions.
+
+When I'm not coding, you can find me exploring new technologies, participating in hackathons, or contributing to open-source projects. I'm driven by a curiosity for learning and a commitment to mastering the latest trends in software development.
+
+## service
+
+What i'm doing
+
+alt = geometry app icon
+Data Structure And Algorithms
+Efficient in problem-solving.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+# resume
+
+Resume
+
+Education
+
+SRM Institute Of Science And Technology:2023 — 2027
+Udemy Full Stack Boot Camp: June 2023 — Aug 2023
+Blue Bells Academy: 2020 — 2022
+DSB International Public School:2012 — 2020
+
+Experience
+
+Computer Society Of India (CSI): Mar 2024— Present
+
+My skills
+
+Web development
+85%
+Management
+75%
+Problem Solving 
+90%
+Data Structures and Algorithms
+40%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web development
+Hackathons
+
+Select category
+All
+All
+Web development
+Hackathons
+
+alt= Guide Genie
+Guide Genie
+A one-stop educational platform to guide the unguided.
+Web development
+
+alt= SaatBank
+SaatBank
+Integrates blockchain development to make transactions more secure and efficient.
+Web development
+
+alt= Drum-Kit
+Drum Kit
+A Playfull drum game.
+Web development
+
+alt= simon-game
+Simon Game
+Web development
+
+alt= stackGame
+Stack Game
+Web development
+
+alt= Coffee Guide
+Coffee Guide
+Web development
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
